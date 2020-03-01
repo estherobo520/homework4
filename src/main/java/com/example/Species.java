@@ -10,7 +10,7 @@ public class Species implements Serializable {
         private String name;
         private int population;
         private double growthRate;
-    FileReader filereader = new FileReader("C:\\Users\\Chumi Goldwag\\IdeaProjects\\week4_hw\\speciesText.txt");
+        FileReader filereader = new FileReader("C:\\Users\\Chumi Goldwag\\IdeaProjects\\week4_hw\\speciesText.txt");
 
     public Species(String name, int initialPopulation, double growthRate) throws FileNotFoundException {
             this.name = name;

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="315208d5-fe3f-4b5c-ae65-2a62b4fe1dee" name="Default Changelist" comment="" />
+    <list default="true" id="315208d5-fe3f-4b5c-ae65-2a62b4fe1dee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Species.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/readCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/readCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/readFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/readFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_hw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week4_hw.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,22 +42,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.readCSV">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="week4_hw" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Test" />
+      <module name="opencsv" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="readCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="readCSV" />
-      <module name="week4_hw" />
+      <option name="MAIN_CLASS_NAME" value="com.example.readCSV" />
+      <module name="opencsv" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,11 +94,23 @@
       <option name="presentableId" value="Default" />
       <updated>1583082038263</updated>
       <workItem from="1583082040710" duration="8350000" />
+      <workItem from="1583090862193" duration="633000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1583090305391">
