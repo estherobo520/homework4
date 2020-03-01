@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="315208d5-fe3f-4b5c-ae65-2a62b4fe1dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Species.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/readCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/readCSV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/readFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/readFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_hw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week4_hw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_hw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework4.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583082038263</updated>
       <workItem from="1583082040710" duration="8350000" />
-      <workItem from="1583090862193" duration="633000" />
+      <workItem from="1583090862193" duration="1036000" />
     </task>
     <servers />
   </component>

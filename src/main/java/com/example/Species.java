@@ -22,7 +22,7 @@ public class Species implements Serializable {
             this.growthRate = growthRate;
     }
 
-
+    @Override
         public String toString() {
             return ("Name: = " + name + "\n" +
                     "Population: = " + population + "\n" +
